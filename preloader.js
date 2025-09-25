@@ -10,12 +10,12 @@
       <style>
         #wave-preloader-global {
           position:fixed; inset:0; z-index:9999;
-          background:#FFEACE;
+          background:#E9E9E9;
           display:flex; flex-direction:column; justify-content:flex-end;
           overflow:hidden; pointer-events:none;
         }
         #wave-preloader-global .wave-shape { width:100%; height:42vh; }
-        #wave-preloader-global path { fill:#FFE1BE; }
+        #wave-preloader-global path { fill:#212121; }
       </style>
     </div>
   `);
