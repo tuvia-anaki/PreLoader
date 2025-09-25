@@ -10,7 +10,7 @@
       <style>
         #wave-preloader-global {
           position:fixed; inset:0; z-index:9999;
-          background:#E9E9E9;
+          background:#FFFFFF;
           display:flex; flex-direction:column; justify-content:flex-end;
           overflow:hidden; pointer-events:none;
         }
